@@ -5,6 +5,9 @@
 <img width="1150" height="982" alt="image" src="https://github.com/user-attachments/assets/f125cfe9-9b11-4bd2-a320-d68af528ff09" />
 <img width="1156" height="967" alt="image" src="https://github.com/user-attachments/assets/f73b2709-2d58-4a29-b1aa-05d09e731e3c" />
 <img width="1156" height="967" alt="image" src="https://github.com/user-attachments/assets/f257d25b-ba83-4555-9747-fe49373ca582" />
+<img width="1151" height="974" alt="image" src="https://github.com/user-attachments/assets/dd46cce6-f14e-4f0b-bfc9-81bc45a4dcff" />
+папки не открываются
+<img width="1155" height="969" alt="image" src="https://github.com/user-attachments/assets/31feeccb-6b3b-4e92-9cd7-eacd10be85a4" />
 
 
 <img width="974" height="740" alt="image" src="https://github.com/user-attachments/assets/bc7c8605-a859-4721-bddf-e2ff05fd4f99" />
