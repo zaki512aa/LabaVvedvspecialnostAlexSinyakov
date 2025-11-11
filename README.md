@@ -1,7 +1,9 @@
 # LabaVvedvspecialnostAlexSinyakov
 <img width="1151" height="981" alt="image" src="https://github.com/user-attachments/assets/0c39c5d5-1c72-4fb1-b094-48ceb1325cca" />
 <img width="1151" height="974" alt="image" src="https://github.com/user-attachments/assets/c0c972c2-d64b-4322-a369-71149808e332" />
-<img width="1154" height="988" alt="image" src="https://github.com/user-attachments/assets/978bd565-53c0-4ea3-a0af-78bc2601b382" />
+<img width="1154" height="865" alt="image" src="https://github.com/user-attachments/assets/b904a4f9-473d-43e1-afc3-2999ef2f028e" />
+
+
 
 <img width="974" height="740" alt="image" src="https://github.com/user-attachments/assets/bc7c8605-a859-4721-bddf-e2ff05fd4f99" />
 <img width="974" height="733" alt="image" src="https://github.com/user-attachments/assets/65d93b66-36fc-445b-af24-3d28d1710929" />
