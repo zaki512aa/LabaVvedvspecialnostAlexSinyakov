@@ -8,6 +8,11 @@
 <img width="1151" height="974" alt="image" src="https://github.com/user-attachments/assets/dd46cce6-f14e-4f0b-bfc9-81bc45a4dcff" />
 папки не открываются
 <img width="1155" height="969" alt="image" src="https://github.com/user-attachments/assets/31feeccb-6b3b-4e92-9cd7-eacd10be85a4" />
+<img width="1149" height="967" alt="image" src="https://github.com/user-attachments/assets/13db0896-d0ea-4cd0-b378-6375421f33e1" />
+<img width="1153" height="992" alt="image" src="https://github.com/user-attachments/assets/848bb3cb-64a6-4933-97b2-24f982aa3990" />
+<img width="1158" height="967" alt="image" src="https://github.com/user-attachments/assets/fd75ec97-b395-4610-8ecf-41fdfd3dd259" />
+Изменить файл не дает, хоть и пишет, что операция завершена
+<img width="1158" height="973" alt="image" src="https://github.com/user-attachments/assets/0b787fd3-587b-46db-b3c0-00a266abfd4c" />
 
 
 <img width="974" height="740" alt="image" src="https://github.com/user-attachments/assets/bc7c8605-a859-4721-bddf-e2ff05fd4f99" />
